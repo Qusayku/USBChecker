@@ -1,0 +1,14 @@
+Hallo. Dieser skript überprüft ob ihr USB angeschlossen ist oder nicht
+Der Ersteller ist Qusay Ku.
+Viel gutes damit wünsche ich dir.
+
+Wie er läuft : 
+
+Download : 
+
+git clone https://github.com/Qusayku/USBChecker.git
+und dannach cd USBChecker
+
+dannach : chmod + Checker.sh
+
+dann starten mit : bash Checker.sh
